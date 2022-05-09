@@ -10,7 +10,9 @@ target '2022Movie' do
 
 pod 'SDWebImage', '~> 5.0'
 
+pod 'Alamofire', '~> 5.2'
 
+pod 'RealmSwift', '~> 10.25.0'
  
 
 end
