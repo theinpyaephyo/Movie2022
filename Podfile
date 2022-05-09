@@ -8,6 +8,8 @@ target '2022Movie' do
   # Pods for 2022Movie
  pod 'SwiftyJSON', '~> 4.0'
 
+pod 'SDWebImage', '~> 5.0'
+
 
  
 

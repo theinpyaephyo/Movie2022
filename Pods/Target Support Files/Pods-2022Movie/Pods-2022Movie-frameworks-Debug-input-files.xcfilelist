@@ -1,2 +1,3 @@
 ${PODS_ROOT}/Target Support Files/Pods-2022Movie/Pods-2022Movie-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
 ${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
